@@ -1,0 +1,17 @@
+Some Common algorithms In STL
+	find(arg1, arg2, value to be found);
+	
+for_each() algorithm mostly work with lambdas and functors
+		for_each(arg1, arg2 , functor/Lambda expression);
+
+Some Common methods of std::array & std::vector
+	front(), back(), size(), empty(), at(), max_size()
+
+deque is both sided queue(vector)
+	push_front() method
+	push_back() method
+	
+	pop_front()
+	pop_back()
+
+	emplace_back("Ahmad", 20); // No need to declare class name (much effiecient than push_back())
