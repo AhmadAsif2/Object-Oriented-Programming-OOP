@@ -1,0 +1,11 @@
+-ID:\f20 4\oop\Inheritance\inheritance\Proj1
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\mingw32
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\backward
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include
+-Ic:\MinGW\include
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include-fixed
+-Ic:\MinGW\mingw32\include
+-std=c++17
+-target
+mingw32
